@@ -1,2 +1,2 @@
-query_url = "https://stream.twitter.com/1/statuses/filter.json"
-query = 'track=DATA13'
+twitter_url = "https://stream.twitter.com/1/statuses/filter.json"
+track = {'track': 'THISISMYQUERY'}
